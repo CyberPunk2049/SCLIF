@@ -44,7 +44,7 @@ prompt-toolkit==1.0.15
 psutil==5.4.5
 ptyprocess==0.5.2
 pyEDFlib==0.1.12
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 python-dateutil==2.7.3
 pytz==2018.4
